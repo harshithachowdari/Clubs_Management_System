@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vignan University Clubs Management System
 
 A comprehensive full-stack web application for managing university clubs and events.
@@ -95,3 +96,6 @@ API endpoints will be documented after implementation.
 ## License
 
 MIT License
+=======
+# Clubs_Management_System
+>>>>>>> 81eb090a7bc02e7d1f7bf4776f0094473a3daa76
