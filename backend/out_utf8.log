@@ -1,0 +1,155 @@
+﻿[32m[Nest] 8128  - [39m03/04/2026, 2:17:45 pm [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:45 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[38;5;3m +43ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:45 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:45 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mPassportModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:45 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:45 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mJwtModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:45 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseCoreModule dependencies initialized[39m[38;5;3m +2611ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseModule dependencies initialized[39m[38;5;3m +14ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMongooseModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mUsersModule dependencies initialized[39m[38;5;3m +8ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mClubsModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mEventsModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mNotificationsModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAuthModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAuthController {/api/auth}:[39m[38;5;3m +77ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/auth/register, POST} route[39m[38;5;3m +8ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/auth/login, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/auth/profile, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/auth/validate, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mUsersController {/api/users}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/users, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/users, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/users/students, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/users/club-admins, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/users/profile, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/users/:id, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/users/:id, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/users/:id, DELETE} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/users/:userId/join-club/:clubId, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/users/:userId/leave-club/:clubId, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/users/:userId/assign-club-admin/:clubId, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/users/:userId/remove-club-admin/:clubId, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mClubsController {/api/clubs}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/clubs, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/clubs, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/clubs/search, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/clubs/category/:category, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/clubs/my-clubs, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/clubs/:id, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/clubs/:id, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/clubs/:id, DELETE} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/clubs/:id/join, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/clubs/:id/approve/:userId, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/clubs/:id/reject/:userId, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/clubs/:id/remove-member/:userId, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/clubs/:id/pending-requests, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mEventsController {/api/events}:[39m[38;5;3m +1ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/events, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/events, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/events/upcoming, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/events/search, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/events/my-events, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/events/registered, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/events/attended, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/events/club/:clubId, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/events/:id, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/events/:id, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/events/:id/status, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/events/:id, DELETE} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/events/:id/register, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/events/:id/unregister, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/events/:id/attendance/:userId, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mNotificationsController {/api/notifications}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/notifications, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/notifications, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/notifications/my-notifications, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/notifications/unread, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/notifications/unread-count, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/notifications/:id, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/notifications/:id/read, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/notifications/mark-all-read, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/notifications/:id, DELETE} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/api/notifications/announcement, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 8128  - [39m03/04/2026, 2:17:47 pm [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +4ms[39m
+node : [31m[Nest] 8128  
+- [39m03/04/2026, 
+2:17:47 pm [31m  
+ERROR[39m [38;5;3m[NestA
+pplication] 
+[39m[31mError: listen 
+EADDRINUSE: address 
+already in use 
+:::3001[39m[38;5;3m 
++4ms[39m
+At line:1 char:1
++ node dist/main.js > 
+out.log 2>&1
++ ~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~
+    + CategoryInfo        
+      : NotSpecified    : 
+([31m[Nest] 812.    
+..;5;3m +4ms[39m:S    
+tring) [], RemoteEx    
+ception
+    + FullyQualifiedErr   
+ orId : NativeComman    
+dError
+ 
+node:net:1937
+    const ex = new UVExcep
+tionWithHostPort(err, 
+'listen', address, port);
+               ^
+
+Error: listen EADDRINUSE: 
+address already in use 
+:::3001
+    at 
+Server.setupListenHandle 
+[as _listen2] 
+(node:net:1937:16)
+    at listenInCluster 
+(node:net:1994:12)
+    at Server.listen 
+(node:net:2099:7)
+    at 
+ExpressAdapter.listen (C:\
+Users\kotap\OneDrive\Deskt
+op\IDP-CMS\backend\node_mo
+dules\@nestjs\platform-exp
+ress\adapters\express-adap
+ter.js:127:32)
+    at C:\Users\kotap\OneD
+rive\Desktop\IDP-CMS\backe
+nd\node_modules\@nestjs\co
+re\nest-application.js:188
+:30
+    at new Promise 
+(<anonymous>)
+    at 
+NestApplication.listen (C:
+\Users\kotap\OneDrive\Desk
+top\IDP-CMS\backend\node_m
+odules\@nestjs\core\nest-a
+pplication.js:178:16)
+    at process.processTick
+sAndRejections (node:inter
+nal/process/task_queues:10
+5:5)
+    at async bootstrap (C:
+\Users\kotap\OneDrive\Desk
+top\IDP-CMS\backend\dist\m
+ain.js:27:5) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 3001
+}
+
+Node.js v22.14.0

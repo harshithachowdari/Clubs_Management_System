@@ -1,0 +1,19 @@
+[
+  {
+    "_id": "69cf810ce93579bf5193c921",
+    "profileImage": null,
+    "isActive": true,
+    "joinedClubs": [],
+    "managedClubs": [],
+    "email": "231fa04a58@gmail.com",
+    "password": "$2b$10$UFY4u5FxhsfozUEIG5j9zeqeKsWzmK/xWHh42N3oVs5I15YB//DVK",
+    "firstName": "harshitha",
+    "lastName": "KOTAPATI",
+    "role": "student",
+    "rollNumber": "123456",
+    "department": "Computer Science",
+    "createdAt": "2026-04-03T08:57:48.401Z",
+    "updatedAt": "2026-04-03T08:57:48.401Z",
+    "__v": 0
+  }
+]
